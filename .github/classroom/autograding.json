@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Exercise 1",
-      "setup": "make",
+      "setup": "",
       "run": "./apptest Ex1",
       "input": "",
       "output": "",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Exercise 2",
-      "setup": "make",
+      "setup": "",
       "run": "./Ex2",
       "input": "",
       "output": "",
