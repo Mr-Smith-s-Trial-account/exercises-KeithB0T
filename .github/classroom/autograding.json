@@ -3,7 +3,7 @@
     {
       "name": "Exercise 1",
       "setup": "",
-      "run": "g++ -fsanitize=address --std=c++17 tests.cpp <Ex1>",
+      "run": "g++ -fsanitize=address --std=c++17 tests.cpp -o Ex1",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Exercise 2",
       "setup": "",
-      "run": "g++ -fsanitize=address --std=c++17 tests.cpp Ex2",
+      "run": "g++ -fsanitize=address --std=c++17 tests.cpp -o apptests",
       "input": "",
       "output": "",
       "comparison": "included",
