@@ -3,7 +3,7 @@
     {
       "name": "Exercise 1",
       "setup": "",
-      "run": "./apptests Ex1",
+      "run": "./tests Ex1",
       "input": "",
       "output": "",
       "comparison": "included",
