@@ -9,10 +9,7 @@ using namespace std;
 
 int exerciseOne(string word) //takes in one word
 {
-	if (word == "agent")
-	{
-		return 10;
-	}
+
 	
 	return 0;// TODO: fix
 }
