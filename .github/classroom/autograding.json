@@ -3,7 +3,7 @@
     {
       "name": "Exercise 1",
       "setup": "",
-      "run": "g++ -fsanitize=address --std=c++17 tests.cpp <test-spec> Ex1",
+      "run": "g++ -fsanitize=address --std=c++17 tests.cpp <Ex1>",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Exercise 2",
       "setup": "",
-      "run": "g++ -fsanitize=address --std=c++17 tests.cpp <test-spec> Ex2",
+      "run": "g++ -fsanitize=address --std=c++17 tests.cpp Ex2",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -22,8 +22,8 @@
     },
     {
       "name": "Exercise 3",
-      "setup": "",
-      "run": "./Ex3",
+      "setup": "make",
+      "run": "Ex3",
       "input": "",
       "output": "",
       "comparison": "included",
